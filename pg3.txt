@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Modern Civil Rights- Past</title>
+<meta charset="utf-8">
+<link href="civilrights.css" rel="stylesheet">
+</head>
+<body>
+<h1>How Protests Helped Make Change Happen During the Civil Rights Movement</h1>
+
+<div></div>
+<div></div> 
+<div><ul>
+  <li></li>
+</ul></div>
+<div></div>
+<h2></h2>
+<div><img src="justicefortamiroptimized.jpg" height="392" width="300" alt="A poster calling for Justice for Tamir Rice"></div>
+<div><img src="memoryofelijahoptimized.jpg" height="750" width="750" alt="A photograph of a violin vigil for Elijah McClain"></div>
+</body>
+<footer>&copy Copyright 2020 Elora Morrissette
+<ul>
+	<li><a href="https://blacklivesmatter.com/">Official BLM Site</a></li>
+	<li><a href="https://www.nationalgeographic.com/history/2020/06/2020-not-1968/">Comparing 1968 to 2020</a></li>
+	<li><a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a></li>
+</ul>
+</footer>
+</html>
